@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\API.Contratual.CrossCutting\API.Contratual.CrossCutting.csproj" />
+      <ProjectReference Include="..\API.Contratual.Domain\API.Contratual.Domain.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Dapper" Version="2.1.66" />
+      <PackageReference Include="MySqlConnector" Version="2.4.0" />
+    </ItemGroup>
+
+</Project>
