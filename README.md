@@ -119,3 +119,12 @@ dotnet run --project API.Contratual.WebApi
 - MySQL 8.0 ou superior
 - Espaço em disco adequado para processamento de documentos
 
+---
+
+## 📞 Contato
+
+Para mais informações sobre este projeto, entre em contato:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianorodriguess/)
+
+---
